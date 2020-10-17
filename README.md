@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**its-harshil/its-harshil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android App Development projects.
@@ -11,4 +8,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything that I can help you with
 - 📫 How to reach me: https://www.linkedin.com/in/harshil-v-patel/
 - ⚡ Fun fact: “|” Key is not useless.
--->
