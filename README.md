@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hello there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android App Development projects.
 - 🌱 I’m currently learning Tensor Flow and Machine Learning 
