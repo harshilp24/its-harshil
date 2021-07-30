@@ -8,3 +8,10 @@
 - 📫 How to reach me: https://www.linkedin.com/in/harshil-v-patel/
 - 📫 Medium Blog : http://harshilp.medium.com
 - ⚡ Fun fact: “|” Key is not useless
+
+< br/>
+
+###📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
