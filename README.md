@@ -13,6 +13,8 @@ ___
 
 ### 📕 Latest Blog Posts
 
+https://www.patelharshil.net/writing-work
+
 ML from Research to Production – Challenges, Best Practices and Tools [Guide] -
 https://neptune.ai/blog/ml-from-research-to-production
 
