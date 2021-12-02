@@ -11,7 +11,7 @@
 
 ___
 
-### 📕 Latest Blog Posts
+### 📕 Blog Posts
 
 https://www.patelharshil.net/writing-work
 
